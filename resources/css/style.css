@@ -17,13 +17,13 @@ html{
 }
 
 h1{
-	font-size: 2vw;
+	font-size: 100px;
 }
 
 .title{
 	width: 100%;
-	text-align: center;
-	color: white;
+	text-align: top-center;
+	color: pink;
 	margin-top: 3vw;
 }
 
